@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+button {
+  margin: 5px 10px;
+}
+
+.cart {
+  border: 1px solid;
+  border-radius: 3px;
+  width: 200px;
+  margin: auto;
+  text-align: left;
+}
